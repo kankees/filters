@@ -6,3 +6,6 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+https://raw.githubusercontent.com/SlashArash/adblockfa/master/adblockfa.txt
+https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt
+https://raw.githubusercontent.com/nimasaj/uBOPa/master/uBOPa.txt
